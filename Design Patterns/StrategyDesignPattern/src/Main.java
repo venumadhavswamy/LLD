@@ -9,8 +9,10 @@ public class Main {
         PaymentStrategy debitCardStrategy = new DebitCardPaymentStrategy(123456789,000);
         PaymentStrategy upiStrategy = new UPIPyamentStrategy("12345678@ybl");
 
+        //Setting the payment strategy at runtime
         shoppingCartContext.setPaymentStrategy(debitCardStrategy);
         shoppingCartContext.pay(200);
+        //Changing the payment strategy at runtime
         shoppingCartContext.setPaymentStrategy(upiStrategy);
         shoppingCartContext.pay(300);
         shoppingCartContext.setPaymentStrategy(debitCardStrategy);
