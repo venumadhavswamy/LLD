@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Design Patterns/Design Patterns.iml" filepath="$PROJECT_DIR$/Design Patterns/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/IteratorDesignPattern/IteratorDesignPattern.iml" filepath="$PROJECT_DIR$/Design Patterns/IteratorDesignPattern/IteratorDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/LLD Problems/LLD Problems.iml" filepath="$PROJECT_DIR$/LLD Problems/LLD Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design Patterns/MementoDesignPattern/MementoDesignPattern.iml" filepath="$PROJECT_DIR$/Design Patterns/MementoDesignPattern/MementoDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/TemplateDesignPattern/TemplateDesignPattern.iml" filepath="$PROJECT_DIR$/Design Patterns/TemplateDesignPattern/TemplateDesignPattern.iml" />
     </modules>
   </component>
 </project>
